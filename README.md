@@ -1,6 +1,6 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciosenaf/modelo-next/blob/main/LICENSE) 
 
-# Sobre o projeto modelo
+# Sobre o Projeto modelo
 
 Link do Projeto: https://exquisite-florentine-74196e.netlify.app
 
